@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bit-imports": "~0.1.11",
-    "babel-bits": "~0.0.12"
+    "bit-imports": "~0.1.12",
+    "babel-bits": "~0.0.13"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
